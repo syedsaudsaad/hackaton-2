@@ -1,5 +1,4 @@
 import Image from "next/image";
-import { IoPlayOutline } from "react-icons/io5";
 export default function ABOUTUS() {
   return (
     <div>
